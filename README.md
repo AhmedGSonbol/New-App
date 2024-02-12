@@ -1,16 +1,16 @@
-# newsapp
+APK Download :- https://www.mediafire.com/file/uvwds7xfhcw13u3/News_App.apk/file
 
-A new Flutter project.
+السلام عليكم
 
-## Getting Started
+تم بحمد الله عمل تطبيق ( News App ) تطبيق بسيط لمتابعة احدث الأخبار لحظياً
 
-This project is a starting point for a Flutter application.
+يمكنك من خلال التطبيق معرفة اخر الأخبار و التحديثات المستمرة من عدة موضوعات منها :-
+-Business
+-Sports
+-Science
 
-A few resources to get you started if this is your first Flutter project:
+-و يمكنك ايضا البحث بأي كلمة من خلال شاشة البحث و سيكون الناتج مطابق للكلمات المقصودة
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+-بعد الضغط علي الخبر سيتم فتح نافذه منفصلة بها تفاصيل الخبر
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-التحويل بين (Dark / White) Mode
