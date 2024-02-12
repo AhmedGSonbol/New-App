@@ -15,11 +15,11 @@ Is a simple application to follow the latest news in real time
 
 - Techhnologies used :- 
 
-  -Flutter<br>
-  -Dart<br>
-  -Bloc & Cubit<br>
-  -API<br>
-  -Shared Preferences<br>
+  - Flutter
+  - Dart
+  - Bloc & Cubit
+  - API
+  - Shared Preferences 
 
 - APK Download :- https://www.mediafire.com/file/uvwds7xfhcw13u3/News_App.apk/file
 
