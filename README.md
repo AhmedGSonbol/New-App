@@ -3,9 +3,9 @@ Is a simple application to follow the latest news in real time
 
 - Through the application, you can find out the latest news and continuous updates on several topics, including:
   
-  -Business <br>
-  -Sports <br>
-  -Science<br>
+  - Business
+  - Sports
+  - Science
 
 - You can also search for any word through the search screen, and the result will be identical to the intended words
 
