@@ -1,6 +1,4 @@
-APK Download :- https://www.mediafire.com/file/uvwds7xfhcw13u3/News_App.apk/file
-
-(News App)
+<h1>News App</h1>
 Is a simple application to follow the latest news in real time
 
 - Through the application, you can find out the latest news and continuous updates on several topics, including: 
@@ -21,6 +19,8 @@ Is a simple application to follow the latest news in real time
   -Bloc & Cubit ( State Management )
   -API
   -Shared Preferences
+
+- APK Download :- https://www.mediafire.com/file/uvwds7xfhcw13u3/News_App.apk/file
 
 - Application Images :-
 
